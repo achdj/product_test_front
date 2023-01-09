@@ -1,4 +1,4 @@
-# product_test
+# product_test by Achille DJ
 
 ## Project setup
 ```
